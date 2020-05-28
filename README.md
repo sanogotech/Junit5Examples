@@ -3,6 +3,7 @@
 This repository hosts the projects and their source codes written for various tutorials written in [howtodoinjava.com](https://howtodoinjava.com/).
 
 ## Related Tutorials
+https://howtodoinjava.com/junit-5-tutorial/
 
 1. [JUnit 5 Tutorial](https://howtodoinjava.com/junit-5-tutorial/)
 2. [JUnit 5 Test LifeCycle](https://howtodoinjava.com/junit5/junit-5-test-lifecycle/)
